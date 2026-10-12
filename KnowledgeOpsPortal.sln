@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeOps.Console", "KnowledgeOps.Console\KnowledgeOps.Console.csproj", "{F513F5A2-B004-408D-84A1-66A9A871BB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeOps.Web", "KnowledgeOps.Web\KnowledgeOps.Web.csproj", "{B43C0AF4-C7F9-4F4F-9E64-7B3F12F3AAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeOps.AI", "KnowledgeOps.AI\KnowledgeOps.AI.csproj", "{BD297DDB-BDB0-47FD-BB77-3A24C4595EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F513F5A2-B004-408D-84A1-66A9A871BB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F513F5A2-B004-408D-84A1-66A9A871BB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F513F5A2-B004-408D-84A1-66A9A871BB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F513F5A2-B004-408D-84A1-66A9A871BB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43C0AF4-C7F9-4F4F-9E64-7B3F12F3AAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43C0AF4-C7F9-4F4F-9E64-7B3F12F3AAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43C0AF4-C7F9-4F4F-9E64-7B3F12F3AAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43C0AF4-C7F9-4F4F-9E64-7B3F12F3AAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD297DDB-BDB0-47FD-BB77-3A24C4595EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD297DDB-BDB0-47FD-BB77-3A24C4595EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD297DDB-BDB0-47FD-BB77-3A24C4595EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD297DDB-BDB0-47FD-BB77-3A24C4595EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
